@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulingServiceAPI", "SchedulingServiceAPI\SchedulingServiceAPI.csproj", "{422984A2-6DF3-43BB-A062-F1CF47433C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundJobs", "BackgroundJobs\BackgroundJobs.csproj", "{15B445A2-9613-4BD9-B958-322C11742458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422984A2-6DF3-43BB-A062-F1CF47433C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422984A2-6DF3-43BB-A062-F1CF47433C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422984A2-6DF3-43BB-A062-F1CF47433C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422984A2-6DF3-43BB-A062-F1CF47433C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B445A2-9613-4BD9-B958-322C11742458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B445A2-9613-4BD9-B958-322C11742458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B445A2-9613-4BD9-B958-322C11742458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B445A2-9613-4BD9-B958-322C11742458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

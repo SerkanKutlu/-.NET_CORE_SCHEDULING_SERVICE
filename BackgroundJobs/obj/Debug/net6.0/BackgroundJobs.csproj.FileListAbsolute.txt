@@ -1,0 +1,12 @@
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\bin\Debug\net6.0\BackgroundJobs.deps.json
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\bin\Debug\net6.0\BackgroundJobs.dll
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\bin\Debug\net6.0\BackgroundJobs.pdb
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\obj\Debug\net6.0\BackgroundJobs.csproj.AssemblyReference.cache
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\obj\Debug\net6.0\BackgroundJobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\obj\Debug\net6.0\BackgroundJobs.AssemblyInfoInputs.cache
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\obj\Debug\net6.0\BackgroundJobs.AssemblyInfo.cs
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\obj\Debug\net6.0\BackgroundJobs.csproj.CoreCompileInputs.cache
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\obj\Debug\net6.0\BackgroundJobs.dll
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\obj\Debug\net6.0\refint\BackgroundJobs.dll
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\obj\Debug\net6.0\BackgroundJobs.pdb
+C:\Users\kutlu\Desktop\WORK\TESODEV\TESODEV_EDU\Repos\SchedulingServiceAPI\BackgroundJobs\obj\Debug\net6.0\ref\BackgroundJobs.dll
