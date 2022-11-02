@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kutlu\\Desktop\\WORK\\TESODEV\\TESODEV_EDU\\Repos\\SchedulingServiceAPI\\BackgroundJobs\\BackgroundJobs.csproj": {}
+    "C:\\Users\\kutlu\\OneDrive\\Desktop\\Personal Folders\\PortfolioRepos\\schedulingService\\BackgroundJobs\\BackgroundJobs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kutlu\\Desktop\\WORK\\TESODEV\\TESODEV_EDU\\Repos\\SchedulingServiceAPI\\BackgroundJobs\\BackgroundJobs.csproj": {
+    "C:\\Users\\kutlu\\OneDrive\\Desktop\\Personal Folders\\PortfolioRepos\\schedulingService\\BackgroundJobs\\BackgroundJobs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutlu\\Desktop\\WORK\\TESODEV\\TESODEV_EDU\\Repos\\SchedulingServiceAPI\\BackgroundJobs\\BackgroundJobs.csproj",
+        "projectUniqueName": "C:\\Users\\kutlu\\OneDrive\\Desktop\\Personal Folders\\PortfolioRepos\\schedulingService\\BackgroundJobs\\BackgroundJobs.csproj",
         "projectName": "BackgroundJobs",
-        "projectPath": "C:\\Users\\kutlu\\Desktop\\WORK\\TESODEV\\TESODEV_EDU\\Repos\\SchedulingServiceAPI\\BackgroundJobs\\BackgroundJobs.csproj",
+        "projectPath": "C:\\Users\\kutlu\\OneDrive\\Desktop\\Personal Folders\\PortfolioRepos\\schedulingService\\BackgroundJobs\\BackgroundJobs.csproj",
         "packagesPath": "C:\\Users\\kutlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutlu\\Desktop\\WORK\\TESODEV\\TESODEV_EDU\\Repos\\SchedulingServiceAPI\\BackgroundJobs\\obj\\",
+        "outputPath": "C:\\Users\\kutlu\\OneDrive\\Desktop\\Personal Folders\\PortfolioRepos\\schedulingService\\BackgroundJobs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kutlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\kutlu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\kutlu\\.dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

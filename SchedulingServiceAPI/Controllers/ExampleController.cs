@@ -5,16 +5,16 @@ namespace SchedulingServiceAPI.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class DummyController : ControllerBase
+public class ExampleController : ControllerBase
 {
     [HttpGet]
-    public IActionResult EndPoint()
+    public async Task<IActionResult> Example()
     {
         var scheduler = new Scheduler(ServiceType.Recurring,recurFrequency:RecurFrequency.Hourly);
-        scheduler.StartEmailService();
+        await scheduler.StartEmailService();
         //var sc = new Scheduler(serviceType:ServiceType.FireAndForget,exactTime:)//Any date can be entered here.
         var scheduler2 = new Scheduler(ServiceType.Recurring,recurFrequency:RecurFrequency.Monthly);
-        scheduler2.StartLogService();
+        await scheduler2.StartLogService();
         return Ok("dummy result");
     }
     

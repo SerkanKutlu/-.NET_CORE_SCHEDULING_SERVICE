@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+YqRvtkOUGYz301v+qCOCz56Yv7jOk010tLuHShcuneygoz4JSJ4KnYtFpclMv6Tto9r7OVGxkFKbGMQh3bT8w==",
+  "dgSpecHash": "Kep4iLYFsyCDS+i6EFjy5aK6oN2emTrB/dg+8vhsfkikIiFOKaCSaYPeOIm9Cft4gUmDa49TTsWbge3LhHVdJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kutlu\\Desktop\\WORK\\TESODEV\\TESODEV_EDU\\Repos\\SchedulingServiceAPI\\BackgroundJobs\\BackgroundJobs.csproj",
+  "projectFilePath": "C:\\Users\\kutlu\\OneDrive\\Desktop\\Personal Folders\\PortfolioRepos\\schedulingService\\BackgroundJobs\\BackgroundJobs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kutlu\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\kutlu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
